@@ -19,9 +19,9 @@ const socials = [
 	},
 	{
 		icon: <Instagram size={20} />,
-		href: "https://www.instagram.com/rhunor___/",
+		href: "https://www.instagram.com/rhunor1/",
 		label: "Instagram",
-		handle: "@rhunor___",
+		handle: "@rhunor1",
 	},
 	{
 		icon: <Mail size={20} />,
